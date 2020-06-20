@@ -1,0 +1,7 @@
+organization=bhuvan98
+projectKey=Bhuvan98_orderMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8830
+dashboardUrl=https://sonarcloud.io/dashboard?id=Bhuvan98_orderMS
+ceTaskId=AXLQ5866vzqr-XvBFA3D
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXLQ5866vzqr-XvBFA3D

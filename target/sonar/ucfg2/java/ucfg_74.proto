@@ -1,0 +1,19 @@
+
+acom.ordermanagement.order.OrderConfig#restTemplate()Lorg/springframework/web/client/RestTemplate;ˆ
+~C:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder (3)/OrderMS/src/main/java/com/ordermanagement/order/OrderConfig.java ($"1*Å
+1ˆ
+~C:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder (3)/OrderMS/src/main/java/com/ordermanagement/order/OrderConfig.java (!îë
+ˆ
+~C:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder (3)/OrderMS/src/main/java/com/ordermanagement/order/OrderConfig.java (1
+%0+org.springframework.web.client.RestTemplate"+org.springframework.web.client.RestTemplate€
+ý
+ˆ
+~C:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder (3)/OrderMS/src/main/java/com/ordermanagement/order/OrderConfig.java (!
+%1"5org.springframework.web.client.RestTemplate#<init>()V*3
+1
+%0+org.springframework.web.client.RestTemplate"À
+ˆ
+~C:/Users/Bhuvaneswaran/Desktop/New folder (14)/New folder (3)/OrderMS/src/main/java/com/ordermanagement/order/OrderConfig.java ("3
+1
+%0+org.springframework.web.client.RestTemplateB)'
+%com.ordermanagement.order.OrderConfig
